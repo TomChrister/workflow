@@ -12,3 +12,5 @@ babel.config.json
 
 # Ignore all package-lock.json files
 **/package-lock.json
+package.json
+package-lock.json
