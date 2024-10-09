@@ -1,1 +1,7 @@
-node_modules
+/node_modules
+
+/.husky
+
+.eslintrc.json
+
+babel.config.json

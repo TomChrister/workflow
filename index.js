@@ -1,7 +1,9 @@
-const someVariable = 2
-
-function add(num1,num2){
-    return num1+num2
+export function add(num1, num2) {
+  return num1 + num2;
 }
+add();
 
-console.log(add(someVariable,3))
+export function minus(num1, num2) {
+  return num1 - num2;
+}
+minus();
